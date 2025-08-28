@@ -10,7 +10,7 @@ I love crafting designs and bringing ideas to life through visuals. Alongside de
 </p>
 
 <p align="center">
-<a href="https://yushrx.vercel.com" target="_blank">
+<a href="https://yushrx.vercel.app" target="_blank">
   <img alt="Portfolio" 
        src="https://img.shields.io/badge/Portfolio-yushrx.vercel.com-000?style=for-the-badge&logoColor=white" />
   <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 1080 1080">
