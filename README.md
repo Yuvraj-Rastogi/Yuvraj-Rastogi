@@ -28,16 +28,16 @@ Imagine a coder with a commerce background. Yeah, that's me. Finance and technol
 
 
 
-## 🎮 My Discord Profile
-<!--
+<!-- ## 🎮 My Discord Profile
+
 <p align="center">
   <a href="https://discord.com/users/760002115049095238" target="_blank">
     <img src="https://discord-readme-badge.vercel.app/api?id=760002115049095238" alt="Discord Profile" />
   </a>
 </p>
--->
----
-
 <p align="center">
   ✨ Always exploring creativity, design, and code.
 </p>
+-->
+---
+
