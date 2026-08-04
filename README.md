@@ -1,8 +1,8 @@
 <!-- Hero -->
-<h1>👋Hey there, I'm <span style="color:#6EE7B7;">Yuvraj</h1>
+<h1><span style="color:#6EE7B7;">Yuvraj</h1>
 
 <p >
-  🎨 Designer &nbsp;•&nbsp; 🎬 Video Editor &nbsp;•&nbsp; 💻 Web Developer
+  Research Analyst (you know what i mean) &nbsp;•&nbsp; Web Developer
 </p>
 
 <p >
